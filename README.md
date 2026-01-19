@@ -8,9 +8,9 @@ I'm **Trần Hải Đăng**, a passionate **Data Engineer** and junior computer 
 
 ### 💡 A little about me:
 
-- 🔭 **Currently Looking for**: A data engineer fresher/intern position
-- 🌱 **Currently learning about**: All things Data Engineering!
-- 💬 **Ask me about**: Tech, memes, anime, and my work
+- 🔭 **Currently Looking for**: A data engineer junior/fresher position
+- 🌱 **Currently learning about**: All things Data Engineering, DataOps!
+- 💬 **Ask me about**: Tech, memes, gym, and my work
 - 😄 **Pronouns**: he/him
 - ⚡ **Languages I code in**: Python3, C++
 
@@ -18,7 +18,7 @@ I'm **Trần Hải Đăng**, a passionate **Data Engineer** and junior computer 
 
 Here’s some of the tech I'm experienced with or exploring:
 - **Programming Languages**: Python, C++
-- **Data Engineering**: SQL / NoSQL, ETL pipelines, Apache Spark, Pandas
+- **Data Engineering**: SQL / NoSQL, ETL pipelines, Apache Spark, Pandas, Polars, dbt
 - **Tools & Platforms**: Linux, Docker, Git
 - **Other Interests**:  Video Compression, ML Foundations
 
