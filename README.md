@@ -1,6 +1,10 @@
 # Haiden
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidenn/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tranhaidang07102005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidenn/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tranhaidang07102005@gmail.com) 
+
+
+<img src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif">
+
 
 ## Hi there 👋
 
@@ -33,5 +37,4 @@ Here’s some of the tech I'm experienced with or exploring:
 - **LinkedIn**: [Haiden](www.linkedin.com/in/haidenn)
 - **Email**: [tranhaidang07102005@gmail.com](mailto:tranhaidang07102005@gmail.com)
 
----
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
