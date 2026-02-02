@@ -3,8 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidenn/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tranhaidang07102005@gmail.com) 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif">
-
+<img src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif"> <img src="https://private-user-images.githubusercontent.com/74038190/240820725-a754eac4-5a8b-4e8f-922b-aff555400790.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAwMTUzNTMsIm5iZiI6MTc3MDAxNTA1MywicGF0aCI6Ii83NDAzODE5MC8yNDA4MjA3MjUtYTc1NGVhYzQtNWE4Yi00ZThmLTkyMmItYWZmNTU1NDAwNzkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjAyVDA2NTA1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ODY1MTllZjc0Njk5YjliNDQ2YjcxZDU2NTZmZGJlNzY0MGY2NmI0MjAxZTgwYTZhOWU3OGNiZDQ3MTQ2YTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HknW32bZ_ThjHrKKgwByOvlQgI6KEsmxulEPAsmqIwA">
 
 ## Hi there 👋
 
