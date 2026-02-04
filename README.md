@@ -35,5 +35,5 @@ Here’s some of the tech I'm experienced with or exploring:
 
 - **LinkedIn**: [Haiden](www.linkedin.com/in/haidenn)
 - **Email**: [tranhaidang07102005@gmail.com](mailto:tranhaidang07102005@gmail.com)
-
+- **Portfolio** haidendoo.github.io/
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
